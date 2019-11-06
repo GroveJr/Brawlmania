@@ -3,7 +3,7 @@
 
 (PC) Thesis project about combo-based fighting game made with Unity using C# programming language.
 
-You can watch the trailer I made [here.](https://drive.google.com/open?id=1oRtlUEsRgBSEXrX-7CA2NgrvoIsQFVll)
+You can watch the trailer I made [here](https://drive.google.com/open?id=1oRtlUEsRgBSEXrX-7CA2NgrvoIsQFVll).
 
 ## Features
 * Combo-based fighting system similar to Tekken
