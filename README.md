@@ -14,3 +14,6 @@ You can watch the trailer I made [here](https://drive.google.com/open?id=1oRtlUE
 * 8 characters to choose from
 * Play against AI or your friends
 * Lots of in-game match customization e.g. number of rounds, time limit
+
+## Screenshots
+![Screenshots](https://drive.google.com/uc?export=view&id=1mkKYV_vI6Nerl5sxkeTTB444oYwms64A)
