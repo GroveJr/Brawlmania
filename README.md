@@ -5,6 +5,8 @@
 
 You can watch the trailer I made [here](https://drive.google.com/open?id=1oRtlUEsRgBSEXrX-7CA2NgrvoIsQFVll).
 
+You can read the published paper [here](https://journal.untar.ac.id/index.php/computatio/article/view/6048).
+
 ## Features
 * Combo-based fighting system similar to Tekken
 * 3 game modes available to play:
@@ -17,3 +19,6 @@ You can watch the trailer I made [here](https://drive.google.com/open?id=1oRtlUE
 
 ## Screenshots
 ![Screenshots](https://drive.google.com/uc?export=view&id=1mkKYV_vI6Nerl5sxkeTTB444oYwms64A)
+
+## Credits
+Trailer Music: [Before I Forget (2019 Remaster) [8 Bit Tribute to Slipknot] - 8 Bit Universe](https://www.youtube.com/watch?v=MECg8cwhNPM)
