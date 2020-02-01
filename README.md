@@ -5,7 +5,7 @@
 
 You can watch the trailer I made [here](https://drive.google.com/open?id=1oRtlUEsRgBSEXrX-7CA2NgrvoIsQFVll).
 
-You can read the published paper [here](https://journal.untar.ac.id/index.php/computatio/article/view/6048).
+You can read the published paper [here](https://journal.untar.ac.id/index.php/computatio/article/view/6048). (It's in Indonesian, though)
 
 ## Features
 * Combo-based fighting system similar to Tekken
